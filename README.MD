@@ -4,7 +4,7 @@
 
 **************
 
-https://nmfs-fish-tools.github.io/STATCAM/
+https://nmfs-fish-tools.github.io/STATCAM
 
 **************
 
